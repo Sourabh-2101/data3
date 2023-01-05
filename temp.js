@@ -1,4 +1,4 @@
-Problem 2 : Check whether a string is palindrome or not.
+Problem 2 : Check whether a string is prime number or not.
 
 for(let i=1; i<=10; i++){
   console.log(i);
